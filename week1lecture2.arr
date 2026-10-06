@@ -1,5 +1,6 @@
 use context starter2024
-a = 'Hello World '
+#|
+   a = 'Hello World '
 a
 
 string-length(a)
@@ -31,3 +32,5 @@ above(circle(20, "solid", "maroon"), rectangle(40, 40, "solid", "maroon"))
 below(circle(20, "solid", "pink"), rectangle(40, 40, "solid", "pink"))
 
 beside(circle(20, "solid", "orange"), rectangle(40, 40, "solid", "orange"))
+|#
+
